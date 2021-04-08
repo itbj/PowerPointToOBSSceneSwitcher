@@ -1,5 +1,5 @@
 ## URL  
-Websocket Server of BOS  
+Virtual PowerPoint Greenscreens! Change a PowerPoint Slide and Change an OBS Scene - automatically!  
 https://youtu.be/ciNcxi2bPwM?t=345  
 obs-websocket - Remote-control OBS Studio from WebSockets 4.9.0  
 https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-from-websockets.466/  
