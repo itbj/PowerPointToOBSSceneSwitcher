@@ -15,7 +15,8 @@ https://github.com/Palakis/obs-websocket/releases/download/4.9.0/obs-websocket-4
 ###[Control OBS with PowerPoint Hotkeys](https://www.youtube.com/watch?v=YvAf25OMapo)  
 Using VB script in PPT, then send hot-keys to OBS to change sence,not use OBS web-socket (port 4444) messages,  when you change the PPT slide.  
 ###[Send hotkeys to OBS from PowerPoint](https://obsproject.com/forum/resources/send-hotkeys-to-obs-from-powerpoint.1181/)  
-###[]()  
+###[How to: Run a C# program in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/run-program?view=vs-2022)  
+*.cs 文件后缀, 标明这个文件大概率是 c# 文件。   
 ###[]()  
 ###[]()  
 ###[]()  
